@@ -1,5 +1,5 @@
 import easygui
-import random
+import random.
 
 def rock_paper_scissors():
     k="пнг картинка/kamen.png"
